@@ -3,7 +3,7 @@
     <property name="created">2018-09-05T09:43:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2018-09-05T09:54:50</property>
+    <property name="modified">2018-09-05T10:06:57</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -11,6 +11,29 @@
       <value>
         <option name="BACKGROUND" value="3a2323" />
         <option name="ERROR_STRIPE_COLOR" value="8f6042" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -21,9 +44,21 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="aeae80" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="3c704b" />
+        <option name="ERROR_STRIPE_COLOR" value="61936f" />
+      </value>
+    </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="be9117" />
+        <option name="EFFECT_COLOR" value="deb017" />
         <option name="ERROR_STRIPE_COLOR" value="ce9f18" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
