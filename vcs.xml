@@ -15,6 +15,6 @@
     <option name="cloneParentDir" value="C:\wamp64\www\itop\support" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:/Dev" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Documents" />
   </component>
 </application>
