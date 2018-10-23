@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="count" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
