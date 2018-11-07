@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/Combodo/itop-working-time-recorder.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/combodo-coverage-windows-computation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Dev\workspace\git" />
