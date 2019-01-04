@@ -17,8 +17,8 @@
     <mask>*.scss</mask>
     <mask>en*.php</mask>
     <mask>fr*.php</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
