@@ -106,6 +106,9 @@
     </option>
     <option name="cloneParentDir" value="C:\Dev\workspace\git\specials" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Documents/Patches" />
   </component>
